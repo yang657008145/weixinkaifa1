@@ -11,6 +11,7 @@ public class WeixinkaifaApplicationTests {
 
     @Test
     public void contextLoads() {
+        Syso.out.printl("nihaoa");
     }
 
 }
